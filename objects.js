@@ -1,1 +1,6 @@
-var playlist = new Object();
+var playlist = {Adele: "Hello"};
+
+function updatePlaylist(playlist, artist)
+{
+  
+}
